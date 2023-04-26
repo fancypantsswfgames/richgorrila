@@ -4,9 +4,8 @@
 
 
 <p align="center">
-Welcome to StickOfTruth Games the best github website you could have for school!
+Welcome to RichGorrila the best github website you could have for school!
+  
+  <p align="center">
+file:///home/chronos/u-4b8291e18100c991800a4117890ebdd473ed92bb/MyFiles/Downloads/istockphoto-155374280-612x612.jpg
 
-
-# Misc.
-
-Credits to no one except for me lol
